@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<windows.h>
 #define MONTHS 12
-#define YEARS 5
+#define YEARS 4
 double *pt[YEARS][MONTHS];
 int main(void)
 {
